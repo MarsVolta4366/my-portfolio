@@ -1,0 +1,28 @@
+body {
+    background-color: #d4d4d4;
+    font: 15px Monospace;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font:50px Monospace, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font: 25px Monospace, sans-serif;
+}
+
+#quote {
+    text-align: center;
+}
+
+.content-div {
+    width: 30%;
+    float: left;
+    text-align: center;
+    border-left: 1px solid grey;
+    padding: 20px;
+    
+}
