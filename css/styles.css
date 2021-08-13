@@ -7,6 +7,10 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     font:50px Monospace, sans-serif;
+    background-color:silver;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -25,4 +29,26 @@ h2 {
     border-left: 1px solid grey;
     padding: 20px;
     
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#linkedinIcon {
+    width: 50px;
+    margin-bottom: 5px;
+}
+
+#facebookIcon {
+    width: 59px;
+}
+
+#socialMediaIcons {
+    width: 10%;
+    float: right;
+}
+
+hr {
+    width: 100%;
 }
